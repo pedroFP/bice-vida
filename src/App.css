@@ -32,3 +32,15 @@
     transform: rotate(360deg);
   }
 } */
+
+nav.navbar {
+  background-color: #153BAA !important;
+}
+
+.firs-word {
+  color: white;
+}
+
+.second-word {
+  color: #82bc00;
+}
